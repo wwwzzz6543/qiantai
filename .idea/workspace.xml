@@ -2,193 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a816d7-2aa9-49c4-8b93-928aa5a52127" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.babelrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/build.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/check-versions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/dev-client.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/dev-server.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/utils.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/vue-loader.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/webpack.base.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/webpack.dev.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/webpack.prod.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/dev.env.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/prod.env.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/api/api.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/api/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/bg1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logo4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/alert.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/autocomplete.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/badge.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/base.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/breadcrumb-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/breadcrumb.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/button-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/button.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/card.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/carousel-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/carousel.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/cascader.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/checkbox-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/checkbox.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/col.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/collapse-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/collapse.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/color-picker.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/date-picker.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dialog.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dropdown-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dropdown-menu.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dropdown.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/fonts/element-icons.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/fonts/element-icons.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/form-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/form.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/icon.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/input-number.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/input.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/loading.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/menu-item-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/menu-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/menu.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/message-box.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/message.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/notification.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/option-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/option.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/pagination.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/popover.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/progress.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/radio-button.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/radio-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/radio.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/rate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/reset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/row.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/scrollbar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/select-dropdown.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/select.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/slider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/spinner.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/step.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/steps.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/submenu.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/switch.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tab-pane.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/table-column.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/table.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tabs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tag.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/time-picker.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/time-select.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tooltip.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tree.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/upload.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/alert.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/autocomplete.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/badge.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/base.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/breadcrumb-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/breadcrumb.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/button-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/button.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/card.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/carousel-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/carousel.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/cascader.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/checkbox-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/checkbox.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/col.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/collapse-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/collapse.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/color-picker.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/date-picker.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/dialog.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/dropdown-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/dropdown-menu.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/dropdown.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/fonts/element-icons.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/fonts/element-icons.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/form-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/form.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/icon.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/input-number.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/input.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/loading.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/menu-item-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/menu-item.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/menu.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/message-box.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/message.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/notification.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/option-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/option.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/pagination.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/popover.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/progress.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/radio-button.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/radio-group.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/radio.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/rate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/reset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/row.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/scrollbar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/select-dropdown.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/select.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/slider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/spinner.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/step.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/steps.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/submenu.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/switch.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/tab-pane.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/table-column.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/table.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/tabs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/tag.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/time-picker.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/time-select.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/tooltip.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/tree.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/upload.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/common/js/util.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/.gitkeep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/mock/data/user.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/mock/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/mock/mock.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/routes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/styles/vars.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/404.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/Login.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/Main.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/charts/echarts.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/nav1/Form.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/nav1/Table.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/nav1/user.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/nav2/Page4.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/nav2/Page5.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/nav3/Page6.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/product/Brand.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/views/product/ProductType.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/vuex/actions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/vuex/getters.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/vuex/store.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/.gitkeep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aigou-web-plat/index.html" afterPath="$PROJECT_DIR$/aigou-web-plat/index.html" />
+      <change beforePath="$PROJECT_DIR$/aigou-web-plat/package.json" afterPath="$PROJECT_DIR$/aigou-web-plat/package.json" />
+      <change beforePath="$PROJECT_DIR$/aigou-web-plat/src/views/Home.vue" afterPath="$PROJECT_DIR$/aigou-web-plat/src/views/Home.vue" />
+      <change beforePath="$PROJECT_DIR$/aigou-web-plat/src/views/product/Brand.vue" afterPath="$PROJECT_DIR$/aigou-web-plat/src/views/product/Brand.vue" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -198,7 +15,64 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Brand.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/views/product/Brand.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="307" column="14" lean-forward="false" selection-start-line="307" selection-start-column="14" selection-end-line="307" selection-end-column="14" />
+              <folding>
+                <element signature="e#6156#6221#0" expanded="false" />
+                <element signature="e#6251#6303#0" expanded="false" />
+                <element signature="e#6332#6702#0" expanded="false" />
+                <element signature="e#6756#6879#0" expanded="false" />
+                <element signature="e#6925#7964#0" expanded="false" />
+                <element signature="e#8033#8149#0" expanded="false" />
+                <element signature="e#8207#8459#0" expanded="false" />
+                <element signature="e#8496#9185#0" expanded="false" />
+                <element signature="e#9221#10693#0" expanded="false" />
+                <element signature="e#10740#10806#0" expanded="false" />
+                <element signature="e#10839#10867#0" expanded="false" />
+                <element signature="e#10907#11380#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/views/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1215">
+              <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+              <folding>
+                <element signature="n#template#0;n#li#0;n#ul#0;n#aside#0;n#el-col#1;n#el-row#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#template#1;n#li#0;n#ul#0;n#aside#0;n#el-col#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/views/Main.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -211,6 +85,19 @@
       <map>
         <entry key="$PROJECT_DIR$/../EasyCode-master" value="PREVIEW" />
       </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/aigou-web-plat/src/views/Home.vue" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/aigou-web-plat/package.json" />
+        <option value="$PROJECT_DIR$/aigou-web-plat/index.html" />
+        <option value="$PROJECT_DIR$/aigou-web-plat/src/views/product/Brand.vue" />
+        <option value="$PROJECT_DIR$/aigou-web-plat/src/views/Home.vue" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -228,7 +115,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/aigou-web-plat/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="436" />
     <option name="y" value="71" />
     <option name="width" value="1489" />
@@ -249,6 +136,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,14 +150,33 @@
               <item name="aigou-plat-web" type="462c0819:PsiDirectoryNode" />
               <item name="aigou-web-plat" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="aigou-plat-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-plat-web" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou-web-plat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-plat-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-plat-web" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou-web-plat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-plat-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-plat-web" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou-web-plat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -389,15 +297,18 @@
       <workItem from="1564800790456" duration="1572000" />
       <workItem from="1564811806969" duration="822000" />
       <workItem from="1564814890805" duration="302000" />
-      <workItem from="1564815271320" duration="285000" />
+      <workItem from="1564815271320" duration="352000" />
+      <workItem from="1564815813097" duration="83000" />
+      <workItem from="1564816080138" duration="5126000" />
+      <workItem from="1564840910750" duration="631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3324000" />
+    <option name="totallyTimeSpent" value="9231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -408,12 +319,12 @@
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32700893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15884861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -421,8 +332,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -439,10 +350,60 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/views/product/Brand.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6156#6221#0" expanded="false" />
+            <element signature="e#6251#6303#0" expanded="false" />
+            <element signature="e#6332#6702#0" expanded="false" />
+            <element signature="e#6756#6879#0" expanded="false" />
+            <element signature="e#6925#7964#0" expanded="false" />
+            <element signature="e#8033#8149#0" expanded="false" />
+            <element signature="e#8207#8459#0" expanded="false" />
+            <element signature="e#8496#9185#0" expanded="false" />
+            <element signature="e#9221#10693#0" expanded="false" />
+            <element signature="e#10740#10806#0" expanded="false" />
+            <element signature="e#10839#10867#0" expanded="false" />
+            <element signature="e#10907#11380#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="50" column="33" lean-forward="true" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <folding>
+            <element signature="n#template#0;n#li#0;n#ul#0;n#aside#0;n#el-col#1;n#el-row#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#template#1;n#li#0;n#ul#0;n#aside#0;n#el-col#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/aigou-web-plat/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -452,7 +413,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/aigou-web-plat/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/aigou-web-plat/package.json" />
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <folding>
+            <element signature="n#template#0;n#li#0;n#ul#0;n#aside#0;n#el-col#1;n#el-row#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#template#1;n#li#0;n#ul#0;n#aside#0;n#el-col#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/src/views/product/Brand.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="307" column="14" lean-forward="false" selection-start-line="307" selection-start-column="14" selection-end-line="307" selection-end-column="14" />
+          <folding>
+            <element signature="e#6156#6221#0" expanded="false" />
+            <element signature="e#6251#6303#0" expanded="false" />
+            <element signature="e#6332#6702#0" expanded="false" />
+            <element signature="e#6756#6879#0" expanded="false" />
+            <element signature="e#6925#7964#0" expanded="false" />
+            <element signature="e#8033#8149#0" expanded="false" />
+            <element signature="e#8207#8459#0" expanded="false" />
+            <element signature="e#8496#9185#0" expanded="false" />
+            <element signature="e#9221#10693#0" expanded="false" />
+            <element signature="e#10740#10806#0" expanded="false" />
+            <element signature="e#10839#10867#0" expanded="false" />
+            <element signature="e#10907#11380#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

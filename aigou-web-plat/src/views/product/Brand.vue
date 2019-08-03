@@ -94,7 +94,12 @@
 					<el-input v-model="addForm.englishName" auto-complete="off"></el-input>
 				</el-form-item>
 				<el-form-item label="类型" prop="productTypeId">
-					<el-input v-model="addForm.productTypeId" auto-complete="off"></el-input>
+					<el-cascader
+							v-model="value"
+							:options="productType"
+							:props="props"
+							:show-all-levels="false"
+							@change="handleChange"></el-cascader>
 				</el-form-item>
 				<el-form-item label="描述">
 					<el-input type="textarea" v-model="addForm.description"></el-input>
@@ -116,6 +121,11 @@
 	export default {
 		data() {
 			return {
+                props:{
+                    label:"name",
+                    value:"id",
+					expandTrigger: 'hover'
+                },
                 filters: {
                     keyWord: ''
                 },
@@ -125,7 +135,7 @@
                 page: 1,
                 listLoading: false,
                 sels: [],//列表选中列
-
+				productType:[],
                 editFormVisible: false,//编辑界面是否显示
                 editLoading: false,
                 editFormRules: {
@@ -182,6 +192,13 @@
 						let pageList = res.data;
 						this.brands = pageList.rows;
 						this.total = pageList.total;
+					})
+			},
+            //获取品牌类型列表
+            getProuductType(){
+			    this.$http.get("/product/productType/list")
+					.then((res)=>{
+					    this.productType = res.data;
 					})
 			},
 			//删除
@@ -282,6 +299,10 @@
                     }
                 });
 			},
+			//新增界面类型级联
+            handleChange(value){
+                this.addForm.productTypeId = value
+            },
 			selsChange: function (sels) {
 				this.sels = sels;
 			},
@@ -311,6 +332,7 @@
 		//相当于jquery的$(function(){})
 		mounted() {
 			this.getBrands();
+			this.getProuductType();
 		}
 	}
 
