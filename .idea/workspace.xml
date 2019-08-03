@@ -1,8 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7aa5044-9e20-495a-98f0-22f019e76496" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="c2a816d7-2aa9-49c4-8b93-928aa5a52127" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.babelrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/build.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/check-versions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/dev-client.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/dev-server.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/vue-loader.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.base.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.dev.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.prod.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/config/dev.env.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/config/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/config/prod.env.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/api/api.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/api/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/bg1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/alert.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/autocomplete.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/badge.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/breadcrumb-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/breadcrumb.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/button-group.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/button.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/card.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/carousel-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/cascader.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/checkbox-group.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/checkbox.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/col.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/collapse-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/collapse.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/color-picker.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/date-picker.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dialog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dropdown-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dropdown-menu.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dropdown.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/fonts/element-icons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/fonts/element-icons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/form-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/form.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/icon.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/input-number.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/input.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/loading.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/menu-item-group.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/menu-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/menu.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/message-box.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/message.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/notification.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/option-group.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/option.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/pagination.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/popover.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/progress.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/radio-button.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/radio-group.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/radio.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/rate.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/reset.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/row.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/scrollbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/select-dropdown.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/select.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/slider.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/spinner.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/step.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/steps.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/submenu.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/switch.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tab-pane.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/table-column.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/table.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tabs.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tag.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/time-picker.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/time-select.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tooltip.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tree.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/upload.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/alert.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/autocomplete.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/badge.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/breadcrumb-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/breadcrumb.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/button-group.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/button.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/card.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/carousel-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/cascader.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/checkbox-group.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/checkbox.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/col.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/collapse-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/collapse.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/color-picker.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/date-picker.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/dialog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/dropdown-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/dropdown-menu.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/dropdown.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/fonts/element-icons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/fonts/element-icons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/form-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/form.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/icon.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/input-number.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/input.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/loading.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/menu-item-group.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/menu-item.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/menu.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/message-box.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/message.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/notification.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/option-group.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/option.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/pagination.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/popover.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/progress.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/radio-button.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/radio-group.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/radio.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/rate.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/reset.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/row.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/scrollbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/select-dropdown.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/select.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/slider.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/spinner.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/step.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/steps.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/submenu.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/switch.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/tab-pane.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/table-column.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/table.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/tabs.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/tag.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/time-picker.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/time-select.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/tooltip.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/tree.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/theme/theme-green/upload.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/assets/user.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/components/.gitkeep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mock/data/user.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mock/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/mock/mock.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/routes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/styles/vars.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/404.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/Login.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/Main.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/echarts.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/nav1/Form.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/nav1/Table.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/nav1/user.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/nav2/Page4.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/nav2/Page5.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/nav3/Page6.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/product/Brand.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/views/product/ProductType.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/vuex/actions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/vuex/getters.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/vuex/store.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/.gitkeep" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,57 +198,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Brand.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/product/Brand.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1584">
-              <caret line="125" column="35" lean-forward="true" selection-start-line="125" selection-start-column="35" selection-end-line="125" selection-end-column="35" />
-              <folding>
-                <element signature="n#style#0;n#el-table#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#el-pagination#0;n#el-col#1;n#section#0;n#template#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductType.vue" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/views/product/ProductType.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>page</find>
-      <find>handleDel</find>
-    </findStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -71,20 +211,6 @@
       <map>
         <entry key="$PROJECT_DIR$/../EasyCode-master" value="PREVIEW" />
       </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/views/Home.vue" />
-        <option value="$PROJECT_DIR$/src/views/Login.vue" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/main.js" />
-        <option value="$PROJECT_DIR$/src/routes.js" />
-        <option value="$PROJECT_DIR$/src/views/nav1/Table.vue" />
-        <option value="$PROJECT_DIR$/src/views/product/Brand.vue" />
-      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -100,7 +226,7 @@
     </treeState>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/aigou-web-plat/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="436" />
@@ -123,9 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,41 +259,23 @@
             <path>
               <item name="aigou-plat-web" type="b2602c69:ProjectViewProjectNode" />
               <item name="aigou-plat-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aigou-plat-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aigou-plat-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aigou-plat-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aigou-plat-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou-web-plat" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ruanjian\Java\IDEAProject\aigou-plat-web\src\views" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -274,23 +379,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b7aa5044-9e20-495a-98f0-22f019e76496" name="Default" comment="" />
-      <created>1564401885613</created>
+      <changelist id="c2a816d7-2aa9-49c4-8b93-928aa5a52127" name="Default" comment="" />
+      <created>1564800004867</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564401885613</updated>
-      <workItem from="1564401888533" duration="125000" />
-      <workItem from="1564408814486" duration="580000" />
-      <workItem from="1564409433015" duration="5500000" />
-      <workItem from="1564418637608" duration="30000" />
-      <workItem from="1564448028423" duration="6530000" />
-      <workItem from="1564647114919" duration="3789000" />
-      <workItem from="1564667780725" duration="3898000" />
+      <updated>1564800004867</updated>
+      <workItem from="1564800007458" duration="127000" />
+      <workItem from="1564800191409" duration="216000" />
+      <workItem from="1564800790456" duration="1572000" />
+      <workItem from="1564811806969" duration="822000" />
+      <workItem from="1564814890805" duration="302000" />
+      <workItem from="1564815271320" duration="285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20452000" />
+    <option name="totallyTimeSpent" value="3324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -305,11 +409,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -323,6 +427,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -338,372 +443,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/product/Brand.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5022">
-          <caret line="186" column="34" lean-forward="true" selection-start-line="186" selection-start-column="34" selection-end-line="186" selection-end-column="34" />
-          <folding>
-            <element signature="n#style#0;n#el-table#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#el-pagination#0;n#el-col#1;n#section#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="85" column="33" lean-forward="false" selection-start-line="85" selection-start-column="33" selection-end-line="85" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mock/index.js">
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2133">
-          <caret line="79" column="26" lean-forward="false" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mock/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mock/mock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mock/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mock/mock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2133">
-          <caret line="79" column="26" lean-forward="false" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Main.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Main.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/nav1/user.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="78" column="32" lean-forward="true" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/nav1/Form.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1258">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/charts/echarts.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3402">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mock/mock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mock/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="85" column="33" lean-forward="false" selection-start-line="85" selection-start-column="33" selection-end-line="85" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/nav1/Table.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="294" column="20" lean-forward="true" selection-start-line="294" selection-start-column="20" selection-end-line="294" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/product/Brand.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1584">
-          <caret line="125" column="35" lean-forward="true" selection-start-line="125" selection-start-column="35" selection-end-line="125" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#el-table#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#el-pagination#0;n#el-col#1;n#section#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/product/ProductType.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/aigou-web-plat/package.json" />
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>aigou-plat-web</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

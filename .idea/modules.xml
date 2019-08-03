@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aigou-plat-web.iml" filepath="$PROJECT_DIR$/aigou-plat-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aigou-plat-web.iml" filepath="$PROJECT_DIR$/.idea/aigou-plat-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aigou-web-plat/aigou-web-plat.iml" filepath="$PROJECT_DIR$/aigou-web-plat/aigou-web-plat.iml" />
     </modules>
   </component>
 </project>
