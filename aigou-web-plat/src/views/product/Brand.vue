@@ -84,7 +84,7 @@
 		(1)组件上添加 ref属性
 		(2)this.$refs.addForm 获取到组件对象
 		  -->
-		<el-dialog title="新增" :visible="addFormVisible" :close-on-click-modal="false" size="tiny">
+		<el-dialog title="新增" :visible.sync="addFormVisible" size="tiny">
 			<el-form :model="addForm" label-width="80px" :rules="addFormRules" ref="addForm">
 				<!--label 表单组件的信息  prop  验证使用-->
 				<el-form-item label="品牌名称" prop="name">
@@ -95,12 +95,28 @@
 				</el-form-item>
 				<el-form-item label="类型" prop="productTypeId">
 					<el-cascader
-							v-model="value"
+							v-model="props.value"
 							:options="productType"
 							:props="props"
 							:show-all-levels="false"
 							@change="handleChange"></el-cascader>
 				</el-form-item>
+                <el-form-item label="Logo">
+                    <el-upload
+                            class="upload-demo"
+                            action="http://localhost:3000/services/common/fastdfs"
+                            :on-preview="handlePreview"
+                            :on-remove="handleRemove"
+                            :on-success="handleSuccess"
+                            :on-exceed="handleExceed"
+                            :file-list="fileList"
+                            :multiple="true"
+                            :limit="1"
+                            list-type="picture">
+                        <el-button size="small" type="primary">点击上传</el-button>
+                        <div slot="tip" class="el-upload__tip">只能上传jpg/png文件，且不超过500kb</div>
+                    </el-upload>
+                </el-form-item>
 				<el-form-item label="描述">
 					<el-input type="textarea" v-model="addForm.description"></el-input>
 				</el-form-item>
@@ -121,6 +137,12 @@
 	export default {
 		data() {
 			return {
+                fileList: [
+                    {
+                        name: 'food.jpeg',
+                        url: 'https://fuss10.elemecdn.com/3/63/4e7f3a15429bfda99bce42a18cdd1jpeg.jpeg?imageMogr2/thumbnail/360x360/format/webp/quality/100'
+                    }
+                    ],
                 props:{
                     label:"name",
                     value:"id",
@@ -171,8 +193,25 @@
             }
 		},
 		methods: {
+            handleExceed(files, fileList){
+                this.$message({
+                    message: '只能上传一张图片哦！！',
+                    type: 'warning'
+                });
+            },
+            handleSuccess(response, file, fileList){
+                console.log("response:",response)
+                console.log("file:",file)
+                console.log("fileList:",fileList)
+            },
+            handleRemove(file, fileList) {
+                console.log(file, fileList);
+            },
+            handlePreview(file) {
+                console.log(file);
+            },
 			//性别显示转换
-			formatSex: function (row, column) {
+			formatSex(row, column) {
 				return row.sex == 1 ? '男' : row.sex == 0 ? '女' : '未知';
 			},
 			handleCurrentChange(val) {
@@ -202,7 +241,7 @@
 					})
 			},
 			//删除
-			handleDel: function (index, row) {
+			handleDel(index, row) {
                 this.$confirm('确认删除该记录吗?', '提示', {
                     type: 'warning'
                 }).then(() => {
@@ -229,12 +268,12 @@
                 })
 			},
             //显示编辑界面
-            handleEdit: function (index, row) {
+            handleEdit(index, row) {
                 this.editFormVisible = true;
                 this.editForm = Object.assign({}, row);
             },
             //显示新增界面
-            handleAdd: function () {
+            handleAdd() {
                 this.addFormVisible = true;
                 this.addForm = {
                     name: '',
@@ -244,7 +283,7 @@
                 };
             },
 			//编辑
-			editSubmit: function () {
+			editSubmit() {
 				this.$refs.editForm.validate((valid) => {
 					if (valid) {
 						this.$confirm('确认提交吗？', '提示', {}).then(() => {
@@ -268,14 +307,15 @@
 				});
 			},
 			//新增
-			addSubmit: function () {
+			addSubmit() {
                 this.$refs.addForm.validate((valid) => {
                     if (valid) {
                         this.$confirm('确认提交吗？', '提示', {}).then(() => {
                             this.addLoading = true;
                             //NProgress.start();
                             let para = Object.assign({}, this.addForm);//对象的复制
-
+                            //级联选择器的结果是一个数组
+                            para.productTypeId = para.productTypeId[para.productTypeId.length-1];
                             this.$http.post("/product/brand/add",para)
                                 .then(res=>{
                                     this.addLoading = false;
@@ -303,11 +343,11 @@
             handleChange(value){
                 this.addForm.productTypeId = value
             },
-			selsChange: function (sels) {
+			selsChange(sels) {
 				this.sels = sels;
 			},
 			//批量删除
-			batchRemove: function () {
+			batchRemove() {
 				var ids = this.sels.map(item => item.id).toString();
 				this.$confirm('确认删除选中记录吗？', '提示', {
 					type: 'warning'
